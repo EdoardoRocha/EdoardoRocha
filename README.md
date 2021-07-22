@@ -1,13 +1,14 @@
-<h1 align="center"> Welcome 👋🤓 </h1>
+<h1 align="center"> Welcome to my world 👋🤓 </h1>
 
 
 <p align="center">
-<img src="src/assets/tenor.gif">
+
+![Have you seen my stats?](https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=radical)
+
 </p>
 
 
 
-![Have you seen my stats?](https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=radical)
 
 
 
