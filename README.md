@@ -1,7 +1,7 @@
-<h1 algin="center"> Welcome 👋🤓 </h1>
+<h1 align="center"> Welcome 👋🤓 </h1>
 
 
-<p algin="center">
+<p align="center">
 <img src="src/assets/tenor.gif">
 </p>
 
