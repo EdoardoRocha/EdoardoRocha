@@ -1,11 +1,12 @@
 <h1 align="center"> Welcome to my world 👋🤓 </h1>
 
 
-<p align="center">
 
-![Have you seen my stats?](https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=radical)
 
-</p>
+| ![Have you seen my stats?](https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=radical) |
+
+|:------:|
+
 
 
 
