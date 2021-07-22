@@ -1,10 +1,15 @@
-### Hi there 👋
+<h1 algin="center"> Welcome 👋🤓 </h1>
 
-![Have you seen my stats?](https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=radical)
 
 <p algin="center">
 <img src="src/assets/tenor.gif">
 </p>
+
+
+
+![Have you seen my stats?](https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=radical)
+
+
 
 
 
