@@ -2,7 +2,7 @@
 
 ![Have you seen my stats?](https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=radical)
 
-![Hello world!](https://tenor.com/view/hello-world-gif-18564330)
+<div class="tenor-gif-embed" data-postid="18564330" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/hello-world-gif-18564330">Hello World GIF</a> from <a href="https://tenor.com/search/helloworld-gifs">Helloworld GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
