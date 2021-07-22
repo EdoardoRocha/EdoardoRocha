@@ -2,7 +2,7 @@
 
 ![Have you seen my stats?](https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=radical)
 
-<p align="center">![Hello world!](https://tenor.com/view/hello-world-gif-18564330)</p>
+![Hello world!](https://tenor.com/view/hello-world-gif-18564330)
 
 
 
