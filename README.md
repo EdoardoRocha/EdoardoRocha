@@ -1,7 +1,7 @@
 
 
 ### Welcome to my world 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+I'm a web development student looking for opportunities and collaboration on projects related to nodejs and deep learning.
 - 🔭 I'm currently studying nodejs and javaScript (in addition, I'm improving my skills with programming logic and algorithms regularly).
 - 🌱 I am currently learning data optimization security techniques and deep learning using Vue.js.
 - 🤝 I'm looking to collaborate on projects creating "Backends" and deep learning. 
