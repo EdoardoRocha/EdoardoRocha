@@ -2,7 +2,7 @@
 
 ## Olá sou o Edoardo Rocha, bem vindo ao meu github 🤓🖖
 
-<img width="350px"  src="src/assets/Edoardo.png">
+<img width="350px"  src="src/assets/Edoardo.png"> <img width="350px" src="src/assets/dev.gif">
 
 
 ## 
