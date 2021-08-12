@@ -1,10 +1,9 @@
 
 
-### Welcome to my world 👋
-I'm a web development student looking for opportunities and collaboration on projects related to nodejs and deep learning.
-- 🔭 I'm currently studying nodejs and javaScript (in addition, I'm improving my skills with programming logic and algorithms regularly).
-- 🌱 I am currently learning data optimization security techniques and deep learning using Vue.js.
-- 🤝 I'm looking to collaborate on projects creating "Backends" and deep learning. 
+## Olá sou o Edoardo Rocha, bem vindo ao meu github 🤓🖖
+
+##
+
 <div>
   <a href="https://github.com/EdoardoRocha">
   <img height="" width="455em" src="https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
