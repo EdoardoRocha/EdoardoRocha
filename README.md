@@ -7,7 +7,7 @@ I'm a web development student looking for opportunities and collaboration on pro
 - 🤝 I'm looking to collaborate on projects creating "Backends" and deep learning. 
 <div>
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="455em" src="https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoRocha&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
