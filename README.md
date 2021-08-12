@@ -2,7 +2,6 @@
 
 ## Olá sou o Edoardo Rocha, bem vindo ao meu github 🤓🖖
 
-##
 
 <div>
   <a href="https://github.com/EdoardoRocha">
