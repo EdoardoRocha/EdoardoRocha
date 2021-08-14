@@ -42,6 +42,12 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
   </p>
  
+ ## Visitas ao meu perfil :detective:
+ 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/EdoardoRocha/count.svg" />
+ </p>
+ 
  ##
 
 
