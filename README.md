@@ -2,9 +2,16 @@
 
 ## Olá sou o Edoardo Rocha, bem vindo ao meu github 🤓🖖
 
-<img width="350px"  src="src/assets/Edoardo.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img width="350px" src="https://c.tenor.com/rmNGGmy9nKgAAAAd/project-app.gif">
+<p align="center">
+  <a href="#">
+    <img align="center" width="300" src="src/assets/Edoardo.png" />
+  </a>
+  <a href="#">
+    <img align="center" width="450" src="https://c.tenor.com/rmNGGmy9nKgAAAAd/project-app.gif" />
+  </a>
+</p>
 
- 
+
 ##  Statistics 📉
 <div>
   <a href="https://github.com/EdoardoRocha">
@@ -41,6 +48,12 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
   </p>
+ 
+ ## Visitas ao meu perfil :detective:
+ 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/EdoardoRocha/count.svg" />
+ </p>
  
  ##
 
