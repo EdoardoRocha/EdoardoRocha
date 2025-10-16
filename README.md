@@ -28,9 +28,9 @@
 
   ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
   ### Details
-  - 👨‍💻 Estudante de Engenharia de software 
-  - 🍀 Fazendo o primeiro ano do ensino medio, e cursinhos de desenvolvimento web
-  - :video_game: Estudando desenvolvimento de games com c++
+  - 👨‍💻 Estudante de Sistemas de Informação 
+  - 🍀 Fazendo o segundo semestre da Faculdade, e estudando desenvolvimento web
+  - :video_game: Entusiasta no desenvolvimento de jogos
 
 ## Technologies 🤓
 
