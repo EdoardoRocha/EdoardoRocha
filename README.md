@@ -6,9 +6,6 @@
   <a href="#">
     <img align="center" width="300" src="src/assets/Edoardo.png" />
   </a>
-  <a href="#">
-    <img align="center" width="450" src="https://c.tenor.com/rmNGGmy9nKgAAAAd/project-app.gif" />
-  </a>
 </p>
 
 
