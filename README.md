@@ -58,7 +58,7 @@
 ## 👨‍💻 Visitas ao meu perfil
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EdoardoRocha&label=👀%20Visualizações%20do%20perfil&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=EdoardoRocha&label=Visualizações%20do%20perfil&color=blue&style=flat" alt="Contador de visitas" />
 </p>
 
  
