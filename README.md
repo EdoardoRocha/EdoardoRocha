@@ -1,15 +1,6 @@
 
 
-## Olá sou o Edoardo Rocha, bem vindo ao meu github 🤓🖖
-
-<p align="center">
-  <a href="#">
-    <img align="center" width="450" src="https://c.tenor.com/rmNGGmy9nKgAAAAd/project-app.gif" />
-  </a>
-</p>
-
-
-##  Statistics 📉
+# Olá sou o Edoardo Rocha, bem vindo ao meu github 🤓🖖
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -34,9 +25,9 @@
 
 
   <p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,11 +44,16 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <br>
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
   </p>
 
 ## 👨‍💻 Visitas ao meu perfil
 
-<img src="https://komarev.com/ghpvc/?username=EdoardoRocha&label=Visualizações%20do%20perfil&color=brightgreen&style=flat-square" />
+<div align="center" >
+  <img src="https://komarev.com/ghpvc/?username=EdoardoRocha&label=Visualizações%20do%20perfil&color=brightgreen&style=flat-square" />
+</div>
 
  
  ##
