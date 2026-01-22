@@ -1,6 +1,9 @@
 
 
 # Olá sou o Edoardo Rocha, bem vindo ao meu github 🤓🖖
+> Atualmente cursando Sistemas de Informação na Universidade 7 de Setembro.
+> Me identifico principalmente com desenvolvimento Back-End.
+> 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -17,12 +20,10 @@
   ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
   ### Details
   - 👨‍💻 Estudante de Sistemas de Informação 
-  - 🍀 Fazendo o segundo semestre da Faculdade, e estudando desenvolvimento web
+  - 🍀 Fazendo o segundo semestre da Faculdade, e estudando desenvolvimento web Back-End
   - :video_game: Entusiasta no desenvolvimento de jogos
 
 ## Technologies 🤓
-
-
 
   <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -46,15 +47,15 @@
     <img height="40" style="color: #fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
           
   </p>
 
-## 👨‍💻 Visitas ao meu perfil
-
-<div align="center" >
-  <img src="https://komarev.com/ghpvc/?username=EdoardoRocha&label=Visualizações%20do%20perfil&color=brightgreen&style=flat-square" />
-</div>
-
+## 🌐 Principais repositórios
+[![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=EdoardoRocha&repo=apiSmartCar&theme=dark)](https://github.com/EdoardoRocha/apiSmartCar)
+[![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=EdoardoRocha&repo=ToD-List&theme=dark)](https://github.com/EdoardoRocha/ToD-List)
+[![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=EdoardoRocha&repo=knowledge&theme=dark)](https://github.com/EdoardoRocha/knowledge)
  
  ##
 
