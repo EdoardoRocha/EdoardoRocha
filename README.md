@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=F79D37FF&text=console.log("Olá%20Mundo!");&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&desc=@edoardopazz&fontSize=50)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=F79D37&center=&vCenter=&width=435&lines=Dev+que+ama+jogos%2C+m%C3%BAsica%2C+animes+e...+JavaScript)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=F79D37&center=&vCenter=&width=435&lines=Dev+que+ama+Jesus%2C+FPS%2C+e...+JavaScript)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=12000&repeat=false&pause=1000&color=00ACF0&center=&vCenter=&width=435&lines=Me+encontre+em%3A)](https://git.io/typing-svg)  
 
 <a href="https://www.instagram.com/edoardopazz/">
@@ -11,23 +11,6 @@
 <a href="mailto:pazedoardo@gmail.com?subject=Opa%2C%20Jo%C3%A3o!%20Vamos%20trocar%20uma%20ideia%3F">
   <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/82cfa6d7-2f1e-466f-962c-c620d3cf3d13" />
 </a>
-
-# Olá sou o Edoardo Rocha, bem vindo ao meu github 🤓🖖
-> Atualmente cursando Sistemas de Informação na Universidade 7 de Setembro.
-> Me identifico principalmente com desenvolvimento Back-End.
-> 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=EdoardoRocha&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" />
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdoardoRocha&layout=compact&langs_count=7&theme=monokai"
-    />
-  </a>
-</p>
 
   ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
   ### Details
