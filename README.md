@@ -56,8 +56,14 @@
 [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=EdoardoRocha&repo=ToD-List&theme=dark)](https://github.com/EdoardoRocha/ToD-List)
 [![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=EdoardoRocha&repo=knowledge&theme=dark)](https://github.com/EdoardoRocha/knowledge)
  
- ##
-
+## 📊 Minhas Estatísticas no GitHub
+  <a href="https://github.com/EdoardoRocha/github-readme-stats">
+    <img align="center" alt="Estatísticas do GitHub de jotathedev" src="https://github-readme-stats.vercel.app/api?username=edoardorocha&theme=transparent&show_icons=true&title_color=f79d37ff&text_color=f79d37ff&icon_color=00ACF0&ring_color=00ACF0" />
+  </a>
+  <a href="https://github.com/EdoardoRocha/github-readme-stats">
+    <img align="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edoardorocha&title_color=f79d37ff&theme=transparent&layout=compact&card_width=400" />
+  </a>
 
 ![Snake animation](https://github.com/EdoardoRocha/EdoardoRocha/blob/output/github-contribution-grid-snake.svg)
  
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=00ACF0&text=console.log("Volte%20Sempre!");&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&fontSize=50&section=header)
