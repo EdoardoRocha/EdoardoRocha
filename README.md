@@ -1,4 +1,16 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=F79D37FF&text=console.log("Olá%20Mundo!");&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&desc=@edoardopazz&fontSize=50)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=F79D37&center=&vCenter=&width=435&lines=Dev+que+ama+jogos%2C+m%C3%BAsica%2C+animes+e...+JavaScript)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=12000&repeat=false&pause=1000&color=00ACF0&center=&vCenter=&width=435&lines=Me+encontre+em%3A)](https://git.io/typing-svg)  
 
+<a href="https://www.instagram.com/edoardopazz/">
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/e594de76-0e9f-4965-9b66-e5735c8780c1">
+</a>
+<a href="https://www.linkedin.com/in/edoardopaz/">
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/638c0ae6-467f-400d-9dc3-5f18b4469520" />
+</a>
+<a href="mailto:pazedoardo@gmail.com?subject=Opa%2C%20Jo%C3%A3o!%20Vamos%20trocar%20uma%20ideia%3F">
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/82cfa6d7-2f1e-466f-962c-c620d3cf3d13" />
+</a>
 
 # Olá sou o Edoardo Rocha, bem vindo ao meu github 🤓🖖
 > Atualmente cursando Sistemas de Informação na Universidade 7 de Setembro.
@@ -51,6 +63,8 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
           
   </p>
 
