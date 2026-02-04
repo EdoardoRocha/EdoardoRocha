@@ -31,12 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
-## 🌐 Principais repositórios
-[![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=EdoardoRocha&repo=apiSmartCar&theme=dark)](https://github.com/EdoardoRocha/apiSmartCar)
-[![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=EdoardoRocha&repo=safetrack&theme=dark)](https://github.com/EdoardoRocha/safetrack)
-[![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=EdoardoRocha&repo=toughts&theme=dark)](https://github.com/EdoardoRocha/toughts)
-[![Readme Card](https://stats-rk4evwpye-maruquitus-projects.vercel.app/api/pin/?username=EdoardoRocha&repo=gaem-find-the-word&theme=dark)](https://github.com/EdoardoRocha/gaem-find-the-word)
- 
 ## 📊 Minhas Estatísticas no GitHub
   <a href="https://github.com/EdoardoRocha/github-readme-stats">
     <img align="center" alt="Estatísticas do GitHub de Edoardo Paz" src="https://github-readme-stats.vercel.app/api?username=edoardorocha&theme=transparent&show_icons=true&title_color=f79d37ff&text_color=f79d37ff&icon_color=00ACF0&ring_color=00ACF0" />
