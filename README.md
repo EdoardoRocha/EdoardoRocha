@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=F79D37FF&text=console.log("Olá%20Mundo!");&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&desc=@edoardopazz&fontSize=50)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=F79D37&center=&vCenter=&width=435&lines=Dev+que+ama+Jesus%2C+FPS%2C+e...+JavaScript)](https://git.io/typing-svg)  
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=FFD708&text=console.log("Olá%20Mundo!");&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&desc=@edoardopazz&fontSize=50)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FFD708&center=&vCenter=&width=435&lines=Dev+que+ama+Jesus%2C+FPS%2C+e...+JavaScript)](https://git.io/typing-svg)  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=12000&repeat=false&pause=1000&color=00ACF0&center=&vCenter=&width=435&lines=Me+encontre+em%3A)](https://git.io/typing-svg)  
 
 <a href="https://www.instagram.com/edoardopazz/">
@@ -41,4 +41,4 @@
 
 ![Snake animation](https://github.com/EdoardoRocha/EdoardoRocha/blob/output/github-contribution-grid-snake.svg)
  
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=00ACF0&text=console.log("Volte%20Sempre!");&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&fontSize=50&section=header)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=080809&text=console.log("Volte%20Sempre!");&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&fontSize=50&section=header)
